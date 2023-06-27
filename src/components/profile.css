@@ -1,0 +1,12 @@
+.profile_btns{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+}
+.ex_rate{
+    align-items: center;
+    text-align: center;
+    color: #1976d2;
+}
